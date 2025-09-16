@@ -1,0 +1,4 @@
+name: nexenchants
+version: '1.0'
+main: de.hiorcraft.nex.NexEnchants
+api-version: '1.21'
